@@ -1,6 +1,6 @@
 # Player Retention A/B Testing for Mobile Game (Cookies)
 
-data set: https://www.kaggle.com/code/mursideyarkin/mobile-games-ab-testing-with-cookie-cats/input
+data set: [https://www.kaggle.com/code/mursideyarkin/mobile-games-ab-testing-with-cookie-cats/input](https://www.kaggle.com/datasets/mursideyarkin/mobile-games-ab-testing-cookie-cats)
 
 A/B Testing &amp; Player Retention analysis to investigate the impact on player retention.
 
