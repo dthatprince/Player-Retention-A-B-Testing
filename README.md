@@ -25,13 +25,13 @@ Evaluate the impact of gate placement: Compare retention rates between the A/B g
 
 ## Methods:
 
--- A/B Testing: Randomly assign players to two groups, the control group with the gate at level 30 and the experimental group with the gate at level 40. Collect data on player retention for both groups over a specified time period.
+- A/B Testing: Randomly assign players to two groups, the control group with the gate at level 30 and the experimental group with the gate at level 40. Collect data on player retention for both groups over a specified time period.
 
--- Data Collection: Gather relevant data, including the number of game rounds played, in-game purchases, and demographic information, to gain a comprehensive understanding of player behavior and engagement.
+- Data Collection: Gather relevant data, including the number of game rounds played, in-game purchases, and demographic information, to gain a comprehensive understanding of player behavior and engagement.
 
--- Retention Analysis: Calculate and compare 1-day and 7-day retention rates for each A/B group. Perform statistical analysis, such as bootstrapping, to assess the significance of the observed differences in retention rates.
+- Retention Analysis: Calculate and compare 1-day and 7-day retention rates for each A/B group. Perform statistical analysis, such as bootstrapping, to assess the significance of the observed differences in retention rates.
 
--- Interpretation and Conclusion: Analyze the results to draw meaningful insights. Determine whether there is a statistically significant difference in player retention between the two gate placement levels. Provide recommendations based on the findings to optimize player retention.
+- Interpretation and Conclusion: Analyze the results to draw meaningful insights. Determine whether there is a statistically significant difference in player retention between the two gate placement levels. Provide recommendations based on the findings to optimize player retention.
 
 ## Expected Outcome and Benefits:
 This project aims to provide valuable insights into the impact of gate placement on player retention. The expected outcome is to identify the optimal level for gate placement to maximize player engagement and increase overall retention rates. The benefits of this analysis include:
