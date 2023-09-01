@@ -25,7 +25,7 @@ Evaluate the impact of gate placement: Compare retention rates between the A/B g
 
 ## Methods:
 
-- A/B Testing: Randomly assign players to two groups, the control group with the gate at level 30 and the experimental group with the gate at level 40. Collect data on player retention for both groups over a specified time period.
+A/B Testing: Randomly assign players to two groups, the control group with the gate at level 30 and the experimental group with the gate at level 40. Collect data on player retention for both groups over a specified time period.
 
 - Data Collection: Gather relevant data, including the number of game rounds played, in-game purchases, and demographic information, to gain a comprehensive understanding of player behavior and engagement.
 
